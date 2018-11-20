@@ -24,3 +24,5 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+pages:
+- site/content/about.md
