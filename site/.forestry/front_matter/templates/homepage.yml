@@ -1,7 +1,7 @@
 ---
-label: Homepage
-hide_body: 
-is_partial: 
+label: Basic page
+hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
