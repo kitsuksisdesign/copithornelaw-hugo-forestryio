@@ -1,0 +1,26 @@
+---
+label: About page
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: 'Page title '
+  config:
+    required: true
+- type: file
+  name: image
+  label: Image
+  description: Hero image
+  config:
+    maxSize: '5'
+- type: textarea
+  name: body
+  label: Body
+  description: Body text
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
