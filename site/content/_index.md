@@ -1,6 +1,5 @@
 ---
-title: "Homepage"
----
-Hello world! I'm `content/_index.md`
+title: Homepage
 
-I'm rendered by `layouts/_default/list.html`
+---
+Hello world! 
