@@ -3,6 +3,8 @@ title: Homepage
 draft: true
 
 ---
+![](/uploads/2019/10/18/copithorne.png)
+
 ## Adrienne is an experienced practitioner in public, environmental and planning law. Her clients are individuals, residents’ associations, parish councils, charities and small businesses, all of whom are motivated by the desire to protect their local communities.
 
 ### Administrative and public law
