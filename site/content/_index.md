@@ -1,6 +1,5 @@
 ---
 title: Homepage
-draft: true
 
 ---
 ![](/uploads/2019/10/18/copithorne.png)
