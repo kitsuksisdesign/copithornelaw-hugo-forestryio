@@ -4,7 +4,7 @@ date = "2018-11-19T18:05:10-08:00"
 image = ""
 title = "Background "
 [menu.main]
-name = "About"
+name = "Background"
 weight = 2
 
 +++
